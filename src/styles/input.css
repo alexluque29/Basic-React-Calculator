@@ -1,0 +1,19 @@
+.inputRow {
+  background-color: #f59f14;
+  height: 8em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.inputResult {
+  flex: 1;
+  font-size: 20px;
+}
+.inputText {
+  flex: 1;
+  color: rgb(75, 75, 75);
+}
